@@ -1,4 +1,4 @@
-# codigo-guardado
-codigopruebas y guardado
+# codigo-guardado angular
+codigo de pruebas y guardado angular
 
-esto es para mera demostracion y como material de apoyo
+esto es para mera demostracion 
